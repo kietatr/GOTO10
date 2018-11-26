@@ -8,10 +8,10 @@ Currently this only contains the C++ version. I will try to include other interp
 
 ### Morse code
 
-With some over the top GIPHY filters
+With some over-the-top GIPHY filters
 
 <p align="center">
   
-  <img src="./gifs/terminalOnSteroids.gif" alt="Glitchy Terminal On Steroids" width="500"/>
+  <img src="./gifs/terminalOnSteroids.gif" alt="Glitchy Terminal On Steroids" width="800"/>
 
 </p>
