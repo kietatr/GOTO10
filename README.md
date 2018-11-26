@@ -4,6 +4,13 @@ My interpretation of the one-line Commodore 64 BASIC program: `10 PRINT CHR$(205
 
 Currently this only contains the C++ version. I will try to include other interpretations in different languages in the future.
 
+# C++
+
+``` cpp
+#include <iostream> 
+int main() { while(true) { std::cout << static_cast<char>(32 + 63*(rand()%2)); } }
+```
+
 # Some GIFs
 
 ### Morse code
