@@ -15,7 +15,7 @@ int main() { while(true) { std::cout << static_cast<char>(32 + 63*(rand()%2)); }
 
 ### Backward Forward Slashes
 
-Unfiltered
+Classic, unfiltered
 
 <p align="center">
   <img src="./gifs/unfilteredBackwardForward.gif" alt="Glitchy Terminal On Steroids" width="800"/>
