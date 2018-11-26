@@ -10,4 +10,8 @@ Currently this only contains the C++ version. I will try to include other interp
 
 With some over the top GIPHY filters
 
-![](./gifs/terminalOnSteroids.gif)
+<p align="center">
+  
+  <img src="./gifs/terminalOnSteroids" alt="Glitchy Terminal On Steroids" width="500"/>
+
+</p>
