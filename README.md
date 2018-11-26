@@ -21,6 +21,12 @@ Classic, unfiltered
   <img src="./gifs/unfilteredBackwardForward.gif" alt="Glitchy Terminal On Steroids" width="800"/>
 </p>
 
+### Snow?
+
+<p align="center">
+  <img src="./gifs/snow.gif" alt="Glitchy Terminal On Steroids" width="800"/>
+</p>
+
 ### Morse code
 
 With some over-the-top GIPHY filters
