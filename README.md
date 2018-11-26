@@ -15,6 +15,12 @@ int main() { while(true) { std::cout << static_cast<char>(32 + 63*(rand()%2)); }
 
 ### Morse code
 
+The unfiltered version
+
+<p align="center">
+  <img src="./gifs/unfilteredMorseCode.gif" alt="Unfiltered Morse Code" width="800"/>
+</p>
+
 With some over-the-top GIPHY filters
 
 <p align="center">
