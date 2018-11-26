@@ -1,2 +1,2 @@
 main:
-	g++ -o maze main.cpp
+	g++ -o GOTO10 main.cpp
