@@ -18,7 +18,7 @@ int main() { while(true) { std::cout << static_cast<char>(32 + 63*(rand()%2)); }
 Classic, unfiltered
 
 <p align="center">
-  <img src="./gifs/unfilteredBackwardForward.gif" alt="Glitchy Terminal On Steroids" width="550"/>
+  <img src="./gifs/maze.png" alt="Glitchy Terminal On Steroids" width="800"/>
 </p>
 
 ### Snow?
