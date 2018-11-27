@@ -18,13 +18,13 @@ int main() { while(true) { std::cout << static_cast<char>(32 + 63*(rand()%2)); }
 Classic, unfiltered
 
 <p align="center">
-  <img src="./gifs/unfilteredBackwardForward.gif" alt="Glitchy Terminal On Steroids" width="500"/>
+  <img src="./gifs/unfilteredBackwardForward.gif" alt="Glitchy Terminal On Steroids" width="550"/>
 </p>
 
 ### Snow?
 
 <p align="center">
-  <img src="./gifs/snow.gif" alt="Glitchy Terminal On Steroids" width="500"/>
+  <img src="./gifs/snow.gif" alt="Glitchy Terminal On Steroids" width="550"/>
 </p>
 
 ### Morse code
@@ -32,5 +32,5 @@ Classic, unfiltered
 With some over-the-top GIPHY filters
 
 <p align="center">
-  <img src="./gifs/terminalOnSteroids.gif" alt="Glitchy Terminal On Steroids" width="500"/>
+  <img src="./gifs/terminalOnSteroids.gif" alt="Glitchy Terminal On Steroids" width="550"/>
 </p>
