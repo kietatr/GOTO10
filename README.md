@@ -2,7 +2,14 @@
 
 My interpretation of the famous one-line Commodore 64 BASIC program: `10 PRINT CHR$(205.5+RND(1)); : GOTO 10`
 
-Currently this only contains the C++ and Python version. I will try to include other interpretations in different languages in the future.
+Currently this only contains the C, C++, and Python interpretations. I will try to include other interpretations in different languages in the future.
+
+# C
+
+```c
+#include <stdio.h>
+int main(){while(1) {printf("%c", 47 + 45*(rand()%2));}}
+```
 
 # C++
 
