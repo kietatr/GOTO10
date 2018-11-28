@@ -29,7 +29,13 @@ while(1):
 
 ### Backward Forward Slashes
 
-Classic, unfiltered
+Classic, made with Processing
+
+<p align="center">
+  <img src="./gifs/processingMaze.gif" alt="\/ maze in Processing" width="400"/>
+</p>
+
+Classic, terminal
 
 <p align="center">
   <img src="./gifs/unfilteredBackwardForward.gif" alt="\/ maze" width="550"/>
