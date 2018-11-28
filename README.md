@@ -32,7 +32,7 @@ while(1):
 Classic, unfiltered
 
 <p align="center">
-  <img src="./gifs/maze.png" alt="Glitchy Terminal On Steroids" width="550"/>
+  <img src="./gifs/unfilteredBackwardForward.gif" alt="\/ maze" width="550"/>
 </p>
 
 ### Morse code
