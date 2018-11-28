@@ -8,7 +8,7 @@ Currently this only contains the C++ and Python version. I will try to include o
 
 ``` cpp
 #include <iostream> 
-int main() { while(true) { std::cout << static_cast<char>(32 + 63*(rand()%2)); } }
+int main() { while(true) { std::cout << static_cast<char>(47 + 45*(rand()%2)); } }
 ```
 # Python
 
