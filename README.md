@@ -4,26 +4,23 @@ My interpretations in different languages of the famous one-line Commodore 64 BA
 
 Currently this only contains the Processing, C, C++, and Python interpretations. I will try to include other interpretations in different languages in the future.
 
-# Some code snippet
+# Some code snippets
 
 ## C
 
 ```c
-#include <stdio.h>
 int main(){while(1) {printf("%c", 47 + 45*(rand()%2));}}
 ```
 
 ## C++
 
 ``` cpp
-#include <iostream> 
 int main() { while(true) { std::cout << static_cast<char>(47 + 45*(rand()%2)); } }
 ```
 
 ## Python
 
 ```python
-import random
 while(1):
 	print (chr(47 + 45 * random.randint(0,1)), end=" ")
 ```
