@@ -1,23 +1,31 @@
 int cellWidth = 20;
 
 void setup() {
-  size(700, 700);
+  size(300, 300);
   strokeWeight(6);
   stroke(255);
-  //frameRate(2);
+  background(color(#3496FE));
 }
 
+int x = 0, y = 0;
+
 void draw() {
-  background(0);
-  
-  for (int x = 0; x < width ; x += cellWidth) {
-    for (int y = 0; y < height; y += cellWidth) {
-      if(boolean((int)random(2)))
-        drawBackwardSlash(x, y);
-      else
-        drawForwardSlash(x, y);
+  if(boolean((int)random(2)))
+    drawBackwardSlash(x, y);
+  else
+    drawForwardSlash(x, y);
+    
+  x += cellWidth;
+  if (x >= width) {
+    x = 0;
+    y += cellWidth;
+    if (y >= height) {
+      y = 0;
+      x = 0;
+      background(color(#3496FE));
     }
   }
+  
 }
 
 // Draw "\"
